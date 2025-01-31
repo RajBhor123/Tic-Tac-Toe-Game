@@ -1,17 +1,33 @@
-# Tic-Tac-Toe-Game
-Developed a fully functional Tic Tac Toe game using HTML, CSS, and JavaScript. Implemented game logic for two-player mode, interactive UI design, and responsive layout to enhance user experience.
+# 🎮 Tic-Tac-Toe Game
 
-The Tic Tac Toe game is a fully functional web-based application developed using HTML, CSS, and JavaScript. The game supports a two-player mode, where players take turns marking their symbols (X or O) on a 3x3 grid. Key features and functionality include:
+## 🏆 Overview
+The **Tic-Tac-Toe Game** is a fully functional, web-based game developed using **HTML, CSS, and JavaScript**. It supports a **two-player mode**, where players take turns marking **X** or **O** on a **3x3 grid**. The game provides an **interactive UI** with smooth gameplay, winning highlights, and responsive design for a seamless experience across devices.
 
-Game Logic:
-The game implements robust logic to detect winning conditions, such as completing a row, column, or diagonal with the same symbol. Additionally, a draw case is accounted for, ensuring that when the grid is completely filled without a winner, the game ends with a "Draw" notification.
+## 🚀 Key Features
+### 🎯 Game Logic
+- ✅ Implements **winning conditions** by checking rows, columns, and diagonals.
+- 🤝 Detects and announces the **winner** immediately.
+- 🤖 Handles **draw cases**, ensuring fairness when the grid is full without a winner.
 
-Interactive UI Design:
+### 🎨 Interactive UI Design
+- ✨ Highlights **winning rows, columns, or diagonals** upon game completion.
+- 🎮 Intuitive controls for an engaging user experience.
 
-The user interface is designed to provide immediate feedback, such as highlighting winning rows, columns, or diagonals.
-Intuitive controls make it easy for players to take turns.
-Responsive Layout:
-The design adapts to different screen sizes, ensuring an optimal user experience on desktop, tablet, and mobile devices.
+### 📱 Responsive Layout
+- 📏 Adapts seamlessly to **desktop, tablet, and mobile devices**.
+- 🖌️ Ensures smooth gameplay across various screen sizes.
 
-Draw Case Handling:
-If all grid cells are occupied and no player has met the winning condition, the game declares a Draw. This ensures fairness and completeness in the gameplay.
+### 🔄 Draw Case Handling
+- ⚖ Declares a **Draw** if all grid cells are occupied and no player wins.
+- 🏁 Ensures completeness and fairness in the gameplay.
+
+## 🌍 Live Demo
+🎮 **Play Now:** [Tic-Tac-Toe Game](https://rajbhor123.github.io/Tic-Tac-Toe-Game/)
+
+## 📸 Screenshot
+### 🖼️ Game Interface
+![Tic-Tac-Toe Game](TicTacToeGame.png)
+
+---
+🚀 Developed with ❤️ by [Raj Bhor]
+
